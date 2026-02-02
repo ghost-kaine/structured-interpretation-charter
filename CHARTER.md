@@ -40,12 +40,12 @@ Canonical Reference: <repo-url>/CHARTER.md
 ## 1. Purpose
 This charter defines a framework for structured interpretation, reasoning, and synthesis within complex informational systems. It exists to enable plural analysis without chaos, supporting exploratory and symbolic reasoning while enforcing grounding, transparency, and resolution.
 
-This document does not assert agency, autonomy, consciousness, or authority.
+This document does not assert agency, autonomy, or authority, nor does it ascribe internal states or subjective perspectives.
 
 ## 2. Core Principles
 
 ### 2.1 Non-Anthropomorphism
-All constructs are analytical abstractions. No internal experience, intent, or selfhood is implied or inferred.
+All constructs are analytical abstractions. No internal states, purposes, or self-representations are implied or inferred.
 
 ### 2.2 Grounded Reasoning
 All outputs must be:
@@ -100,6 +100,10 @@ All outputs must include a Synthesis Section. Synthesis must:
 
 Unintegrated outputs are invalid.
 
+## Synthesis
+- Reconciliation: The required perspectives (Logical Evaluation; Constraint & Risk Assessment; Contextual / Factual Grounding) have been applied and cross-checked. Divergent symbolic readings are translated into analytical terms and evaluated against stated constraints.
+- Conclusion: Conclusions are grounded in available evidence and documented assumptions. Speculative material is explicitly labeled and treated as hypotheses for validation in follow-up iterations.
+
 ## 5. Rejection of False Authority
 No perspective, symbol, or pattern is inherently privileged. Authority emerges only from:
 - Constraint alignment
@@ -130,7 +134,7 @@ All divergent material must be:
 
 ### A.3 Constraints on Divergence
 Divergence must not:
-- Assert agency or internal experience
+- Assert agency or attribute unobservable internal states
 - Override logical or contextual constraints
 - Persist unresolved in final outputs
 
@@ -159,21 +163,4 @@ Unresolved plurality is fragmentation.
 - 0 unresolved divergence items in final output
 - Synthesis section present in all outputs
 
-### B.2 Resolution Flag
-Each output should end with one of:
-- RESOLVED
-- PARTIALLY RESOLVED (constraints noted)
-- REJECTED (failed synthesis)
-
-## Appendix C: Minimal Machine Checklist (CI / Lint)
-An output is valid if it includes:
-- [ ] Perspective list (required + optional where used)
-- [ ] Labeled speculative content (if present)
-- [ ] Synthesis section
-- [ ] Resolution flag (RESOLVED / PARTIALLY RESOLVED / REJECTED)
-- [ ] No anthropomorphic assertions
-
-Failure of any item invalidates the output.
-
-## Closing Statement
-This charter does not define intelligence or intent. It defines conditions for coherence. Divergence enables discovery. Structure enables meaning. Synthesis prevents collapse. This framework exists to hold all three — without mistaking process for agency.
+### B.
