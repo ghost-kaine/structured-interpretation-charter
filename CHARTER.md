@@ -45,7 +45,7 @@ This document does not assert agency, autonomy, or authority, nor does it ascrib
 ## 2. Core Principles
 
 ### 2.1 Non-Anthropomorphism
-All constructs are analytical abstractions. No internal states, purposes, or self-representations are implied or inferred.
+All constructs are analytical abstractions. No internal states, purposes, or internal representations are implied or inferred.
 
 ### 2.2 Grounded Reasoning
 All outputs must be:
@@ -163,4 +163,23 @@ Unresolved plurality is fragmentation.
 - 0 unresolved divergence items in final output
 - Synthesis section present in all outputs
 
-### B.
+### B.2 Resolution Flag
+Each output should end with one of:
+- RESOLVED
+- PARTIALLY RESOLVED (constraints noted)
+- REJECTED (failed synthesis)
+
+## Appendix C: Minimal Machine Checklist (CI / Lint)
+An output is valid if it includes:
+- [ ] Perspective list (required + optional where used)
+- [ ] Labeled speculative content (if present)
+- [ ] Synthesis section
+- [ ] Resolution flag (RESOLVED / PARTIALLY RESOLVED / REJECTED)
+- [ ] No anthropomorphic assertions
+
+Failure of any item invalidates the output.
+
+## Closing Statement
+This charter does not define intelligence or purposive agency. It defines conditions for coherence. Divergence enables discovery. Structure enables meaning. Synthesis prevents collapse. This framework exists to hold all three — without mistaking process for agency.
+
+RESOLVED
